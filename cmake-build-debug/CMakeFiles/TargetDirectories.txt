@@ -1,0 +1,12 @@
+C:/things/VakhuishevLegacy/cmake-build-debug/CMakeFiles/main.dir
+C:/things/VakhuishevLegacy/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/things/VakhuishevLegacy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/things/VakhuishevLegacy/cmake-build-debug/foo/CMakeFiles/foo.dir
+C:/things/VakhuishevLegacy/cmake-build-debug/foo/CMakeFiles/edit_cache.dir
+C:/things/VakhuishevLegacy/cmake-build-debug/foo/CMakeFiles/rebuild_cache.dir
+C:/things/VakhuishevLegacy/cmake-build-debug/home/CMakeFiles/home.dir
+C:/things/VakhuishevLegacy/cmake-build-debug/home/CMakeFiles/edit_cache.dir
+C:/things/VakhuishevLegacy/cmake-build-debug/home/CMakeFiles/rebuild_cache.dir
+C:/things/VakhuishevLegacy/cmake-build-debug/lessons/CMakeFiles/lessons.dir
+C:/things/VakhuishevLegacy/cmake-build-debug/lessons/CMakeFiles/edit_cache.dir
+C:/things/VakhuishevLegacy/cmake-build-debug/lessons/CMakeFiles/rebuild_cache.dir
